@@ -13,7 +13,7 @@
 ## Install
 
 ```fish
-$ omf install npm
+$ omf install @dudeofawesome/fish-plugin-npm
 ```
 
 
